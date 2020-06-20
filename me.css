@@ -1,0 +1,40 @@
+a{
+    border-color: 2px dashed pink;
+	text-decoration: none;
+	background-color: magenta;
+	border-radius:15px;
+	width: 30px;
+
+}
+h1{
+	background-color: green;
+	border: 2px solid green;
+	margin-left: 20px;
+	border-radius: 20px;
+	text-align: center;
+}
+img{
+	margin-left: 380px;
+	border-radius: 10px;
+	width: 280x;
+	height: 230px;
+
+}
+.ore{
+	background-color: green;
+	border: 2px solid green;
+	margin-left: 200px;
+	border-radius: 20px;
+	text-align: center;
+	margin-bottom: : 50px;
+}
+.me{
+	background-color: green;
+	border: 2px solid green;
+	margin-left: 280px;
+	border-radius: 20px;
+	text-align: center;
+	width: 70px;
+
+}
+
